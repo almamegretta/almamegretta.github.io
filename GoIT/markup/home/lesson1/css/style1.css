@@ -1,0 +1,53 @@
+body{
+    background-color: ##FFFFFF;
+    line-height: 1.4;
+    font-size: 20px;
+}
+hr{
+    width: 412px;
+
+}
+
+.general{
+    background-color: ##FFFFFF;
+    width: 513px;
+    height: 750px;
+	  margin: 0 auto;
+}
+.image{
+display:block;
+border-radius:15px;
+position:relative;
+width:225px;
+}
+.breaking{
+    width: 413px;
+    height: 2px;
+    margin: 30px auto 22px;
+
+}
+.name{
+    text-align: center;
+    padding-top: 54px;
+    font-size: 12px;
+}
+
+
+.about{
+    padding-left: 53px;
+    margin: 0 0 0;
+}
+
+.list_section{
+     padding-left: 53px;
+}
+.contact_me{
+    padding-left: 53px;
+}
+.feedback{
+    padding-left: 53px;
+    padding-bottom: 70px;
+}
+.skills{
+    padding-left: 20px;
+}
