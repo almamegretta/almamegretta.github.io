@@ -2,11 +2,12 @@ body{
     background-color: ##FFFFFF;
     line-height: 1.4;
     font-size: 20px;}
-hr{width: 412px;
+header{width: 412px;
     }
 .general{
     background-color: ##FFFFFF;
     width: 513px;
+    box-shadow: 0 0 6px rgba(0,0,0,0.2);
 	  margin: 0 auto;}
 .picture{
     text-align: center;}
