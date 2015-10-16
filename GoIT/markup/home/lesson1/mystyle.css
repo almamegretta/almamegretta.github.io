@@ -1,1 +1,21 @@
-
+div {
+    font-size: 115%; 
+    border-bottom: 2px solid black; 
+    font-weight: normal;
+    padding-left:45px;
+    padding-right:45px;
+    padding-bottom: 10px;
+  }   
+ body{max-width:512px;
+ max-height:750px;}
+  img{
+display:block;
+border-radius:15px;
+position:relative;
+width:225px;
+}
+p { 
+    font-family: roman; 
+    font-size: 100%; 
+    font-weight: lighter; 
+   }
