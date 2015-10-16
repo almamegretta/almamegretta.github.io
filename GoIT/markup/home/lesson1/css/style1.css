@@ -5,8 +5,7 @@ body{
 }
 hr{
     width: 412px;
-
-}
+    }
 
 .general{
     background-color: ##FFFFFF;
@@ -14,17 +13,13 @@ hr{
     height: 750px;
 	  margin: 0 auto;
 }
-.image{
-display:block;
-border-radius:15px;
-position:relative;
-width:225px;
-}
+
 .breaking{
     width: 413px;
     height: 2px;
     margin: 30px auto 22px;
-
+    background:#000000;
+    overflow: hidden;
 }
 .name{
     text-align: center;
@@ -34,18 +29,19 @@ width:225px;
 
 
 .about{
-    padding-left: 53px;
+    padding-left: 54px;
     margin: 0 0 0;
 }
 
 .list_section{
-     padding-left: 53px;
+     padding-left: 54px;
+     padding-bottm: 69px;
 }
 .contact_me{
-    padding-left: 53px;
+    padding-left: 54px;
 }
 .feedback{
-    padding-left: 53px;
+    padding-left: 54px;
     padding-bottom: 70px;
 }
 .skills{
