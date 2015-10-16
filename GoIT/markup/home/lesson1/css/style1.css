@@ -9,9 +9,7 @@ hr{
 
 .general{
     background-color: ##FFFFFF;
-    width: 513px;
-    height: 750px;
-	  margin: 0 auto;
+    width: 513px; margin: 0 auto;
 }
 
 .breaking{
@@ -26,16 +24,12 @@ hr{
     padding-top: 54px;
     font-size: 12px;
 }
-
-
 .about{
     padding-left: 54px;
     margin: 0 0 0;
 }
-
 .list_section{
      padding-left: 54px;
-    
 }
 .contact_me{
     padding-left: 54px;
