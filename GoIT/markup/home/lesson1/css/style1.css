@@ -10,7 +10,8 @@ hr{
 .general{
     background-color: ##FFFFFF;
     width: 513px;
-    margin: 0 auto;
+    height: 750px;
+	  margin: 0 auto;
 }
 
 .breaking{
@@ -34,7 +35,7 @@ hr{
 
 .list_section{
      padding-left: 54px;
-     padding-bottm: 69px;
+    
 }
 .contact_me{
     padding-left: 54px;
