@@ -1,35 +1,33 @@
+hr {
+    width: 415px;
+    margin-bottom: 30px;
+    margin-top: 22px;}
+    
 .wrapper {
 	width: 512px;
 	height: 750px;
 	margin: 0 auto;
-	border: 1px solid #black;
-
-}
+	border: 1px solid #dimgrey;}
 .wrapper h2 {
 	text-align: center;
 	font-size: 35px;
-	padding-bottom: 10px;
-}
+	padding-bottom: 10px;}
 .wrapper p {
-	line-height: 1.5;
+	line-height: 1.5;}
 
 .wrapper .about-list ul {
-	padding: 20px 0 0 20px;
-}
+	padding: 20px 0 0 20px;}
 .wrapper .header,
 .wrapper .about-list,
 .wrapper .contacts {
 	padding: 20px;
-	border-bottom: 1px solid RGB #000000;
-}
+	border-bottom: 1px solid #dimgrey;}
 .wrapper .feed {
-	padding: 20px;
-}
+	padding: 20px;}
 
 .wrapper .header .pic {
 	text-align: center;
-	margin: 10px auto;
-}
+	margin: 10px auto;}
 .wrapper .contacts p + p {
-	padding-bottom: 30px;
-}
+	padding-bottom: 30px;}
+	
