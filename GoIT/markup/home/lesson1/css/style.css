@@ -1,20 +1,35 @@
-div {
-    font-size: 115%; 
-    border-bottom: 2px solid black; 
-    font-weight: normal;
-    padding-left:45px;
-    padding-right:45px;
-    padding-bottom: 10px;
-  }   
- body{max-width:512px;
- max-height:750px;}
-  img{
-display:block;
-border-radius:15px;
-position:relative;
-width:225px;
+.wrapper {
+	width: 512px;
+	margin: 0 auto;
+	padding: 53px 53px;
+	border: 1px solid #cccccc;
+	font-size: 20px;
 }
-p { 
-    font-size: 100%; 
-    font-weight: lighter; 
-   }
+.wrapper h2 {
+	text-align: center;
+	font-size: 35px;
+	padding-bottom: 10px;
+}
+.wrapper p {
+	line-height: 1.5;
+
+.wrapper .about-list ul {
+	padding: 20px 0 0 20px;
+}
+.wrapper .header,
+.wrapper .about-list,
+.wrapper .contacts {
+	padding: 20px;
+	border-bottom: 1px solid RGB #000000;
+}
+.wrapper .feed {
+	padding: 20px;
+}
+
+.wrapper .header .pic {
+	text-align: center;
+	margin: 10px auto;
+}
+.wrapper .contacts p + p {
+	padding-bottom: 30px;
+}
