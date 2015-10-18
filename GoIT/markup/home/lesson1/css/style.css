@@ -5,17 +5,17 @@ body {
     width: 510px;
     height: 750px;
     margin: 0 auto;
-    border: 1px solid dimgrey;
+    border: 1px solid grey;
     background-color: white;
 }
 .wrapper h1 {
     font-size: 1.5em;
     text-align: center;
-    margin-top: 55px;
+    margin-top: 50px;
 }
 .wrapper img {
-    height: 135px;
-    margin-left: 135px;
+    height: 130px;
+    margin-left: 130px;
     margin-top: 20px;
     border-radius: 10px;
 }
@@ -24,13 +24,13 @@ body {
     margin-left: 20px;
 }
 .wrapper .about {
-    border-bottom: 1px solid dimgrey;
+    border-bottom: 1px solid grey;
     margin: 0 50px 0 50px;
 }
 .wrapper .reasons, .my_contacts {
     padding-left: 20px;
     margin: 0 50px 0 50px;
-    border-bottom: 1px solid dimgrey;
+    border-bottom: 1px solid grey;
 }
 .wrapper li {
     padding: 3px;
