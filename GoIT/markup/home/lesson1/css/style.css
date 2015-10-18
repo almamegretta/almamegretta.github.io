@@ -1,88 +1,53 @@
-
 body {
-
-    height:750px;
-
-    width: 512px;
-
-    position:absolute;
-
-    border: 1px solid grey;
-
-    padding:50px;
-
-    top:2px;
-
-    left:350px;
-
+    background-color: lightgrey;
 }
-
-.header {
-
-    width: 430px;
-
-    margin-bottom: 30px;
-
-    margin-top: 22px;
-
+.wrapper {
+    width: 510px;
+    height: 750px;
+    margin: 0 auto;
+    border: 1px solid dimgrey;
+    background-color: white;
 }
-
-.name {
-
+.wrapper h1 {
+    font-size: 1.5em;
     text-align: center;
-
-    padding-top: 54px;
-
-    font-size: 12px;
-
+    margin-top: 55px;
+}
+.wrapper img {
+    height: 135px;
+    margin-left: 135px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.wrapper .about p {
+    font-size: 1.2em;
+    margin-left: 20px;
+}
+.wrapper .about {
+    border-bottom: 1px solid dimgrey;
+    margin: 0 50px 0 50px;
+}
+.wrapper .reasons, .my_contacts {
+    padding-left: 20px;
+    margin: 0 50px 0 50px;
+    border-bottom: 1px solid dimgrey;
+}
+.wrapper li {
+    padding: 3px;
+    margin-left: -20px;
+}
+.reasons h2 {
+    font-size: 1.1em;
+    font-weight: normal;
+}
+.wrapper .feed {
+    padding-left: 20px;
+    margin: 0 50px 0 50px;
+}
+.wrapper .contacts_contents {
+    width: 200px;
+}
+.wrapper .feed_contents p {
+    margin-top: -10px;
 }
 
-.picture {
-
-    text-align: center;
-
-    border-radius:15px;
-
-}
-
-.block1 {
-
-    padding: 15px;
-
-}
-
-.block2 {
-
-    padding: 15px;
-
-    border-top-style: solid;
-
-    border-top-width: 1px;
-
-    border-top-color: grey;
-
-}
-
-.block3 {
-
-    padding: 15px;
-
-    border-top-style: solid;
-
-    border-top-width: 1px;
-
-    border-top-color: grey;
-
-}
-
-.block4 {
-
-    padding: 15px;
-
-    border-top-style: solid;
-
-    border-top-width: 1px;
-
-    border-top-color: grey;
-
-}
